@@ -1,3 +1,4 @@
+# UI and Menu components
 from os import path
 from drawable import Drawable
 import pygame as pg
