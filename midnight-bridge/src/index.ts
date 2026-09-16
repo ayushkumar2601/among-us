@@ -1,3 +1,4 @@
+// Main bridge server entry point
 // Boot: env -> providers -> deploy-or-join -> start HTTP (spec §5, §8).
 import { createServer } from 'node:http';
 import { dirname, join } from 'node:path';
