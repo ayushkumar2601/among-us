@@ -1,3 +1,4 @@
+// Game state interfaces and validation
 // GameSession (spec §8.4): seats, seed, shuffle, salts, role map, and the
 // belt-and-suspenders validations in front of the contract circuits.
 //
