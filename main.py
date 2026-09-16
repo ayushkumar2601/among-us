@@ -1,3 +1,4 @@
+# Main entry point for the game client
 from game import Game
 
 
