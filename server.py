@@ -1,3 +1,4 @@
+# TCP Relay server for game state
 import socket
 try:
     import asyncore
