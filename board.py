@@ -1,3 +1,4 @@
+# Map and collision board logic
 import pygame as pg
 import pygame.font
 
