@@ -1,3 +1,4 @@
+# Client-side voice chat handler
 #!/usr/bin/python3
 
 import socket
