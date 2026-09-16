@@ -1,3 +1,4 @@
+# Game loop and logic handler
 import random
 from time import sleep
 import pygame as pg
