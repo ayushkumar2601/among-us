@@ -1,3 +1,4 @@
+# Base drawable object classes
 from settings import *
 import pygame as pg
 
