@@ -1,3 +1,4 @@
+# Game configuration settings
 import pygame
 
 # define some colors (R, G, B)
