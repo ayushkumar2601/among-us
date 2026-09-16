@@ -1,3 +1,4 @@
+# Sprite rendering and animation classes
 import time
 import pygame as pg
 from os import path
