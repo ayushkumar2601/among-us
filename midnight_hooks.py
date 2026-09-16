@@ -1,3 +1,4 @@
+# Bridge hooks for Midnight Network integration
 # [MIDNIGHT] Bridge client. Python 3.11. Dependency: requests.
 #
 # Fire-and-forget client for the midnight-bridge (Shadow Protocol spec 10.2).
