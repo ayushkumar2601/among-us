@@ -1,3 +1,4 @@
+# Task logic and minigame states
 import pygame as pg
 from settings import *
 
